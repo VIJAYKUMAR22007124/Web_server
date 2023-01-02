@@ -59,7 +59,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-
+![image](./djangoframeworks.png)
 # RESULT:
 
 The program is executed succesfully
